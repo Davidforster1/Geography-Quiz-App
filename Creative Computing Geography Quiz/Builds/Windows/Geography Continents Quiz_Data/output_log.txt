@@ -1,0 +1,137 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+Platform assembly: C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dave\Desktop\Creative Computing Geography Quiz\Builds\Windows\Geography Continents Quiz_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.758187 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.797763 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 1.241174 ms (FindLiveObjects: 0.032426 ms CreateObjectMapping: 0.021760 ms MarkObjects: 0.318720 ms  DeleteObjects: 0.866987 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at mainMenuAnimations.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.738987 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 0.826454 ms (FindLiveObjects: 0.136106 ms CreateObjectMapping: 0.058453 ms MarkObjects: 0.622933 ms  DeleteObjects: 0.005546 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at mainMenuAnimations.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.067094 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 0.559787 ms (FindLiveObjects: 0.096426 ms CreateObjectMapping: 0.029866 ms MarkObjects: 0.423680 ms  DeleteObjects: 0.006826 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at mainMenuAnimations.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.731733 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 463.
+Total: 0.359680 ms (FindLiveObjects: 0.026453 ms CreateObjectMapping: 0.017493 ms MarkObjects: 0.260693 ms  DeleteObjects: 0.054186 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GameManager.getRandomQuestion () [0x00000] in <filename unknown>:0 
+  at GameManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.657493 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 524.
+Total: 0.440747 ms (FindLiveObjects: 0.032853 ms CreateObjectMapping: 0.027733 ms MarkObjects: 0.325120 ms  DeleteObjects: 0.054613 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.934827 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 1.267627 ms (FindLiveObjects: 0.049920 ms CreateObjectMapping: 0.020480 ms MarkObjects: 0.384000 ms  DeleteObjects: 0.812800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.641280 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 0.441173 ms (FindLiveObjects: 0.035413 ms CreateObjectMapping: 0.030293 ms MarkObjects: 0.355840 ms  DeleteObjects: 0.019200 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.783787 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.431787 ms (FindLiveObjects: 0.060160 ms CreateObjectMapping: 0.019626 ms MarkObjects: 0.294400 ms  DeleteObjects: 0.056746 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.731307 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 1.410987 ms (FindLiveObjects: 0.049920 ms CreateObjectMapping: 0.043520 ms MarkObjects: 0.412587 ms  DeleteObjects: 0.903680 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.659200 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.444587 ms (FindLiveObjects: 0.062720 ms CreateObjectMapping: 0.018346 ms MarkObjects: 0.303786 ms  DeleteObjects: 0.058880 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.825174 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 1.104640 ms (FindLiveObjects: 0.026880 ms CreateObjectMapping: 0.018773 ms MarkObjects: 0.309333 ms  DeleteObjects: 0.748800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.738133 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 0.498347 ms (FindLiveObjects: 0.050773 ms CreateObjectMapping: 0.065280 ms MarkObjects: 0.363520 ms  DeleteObjects: 0.017493 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.998827 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.468907 ms (FindLiveObjects: 0.066133 ms CreateObjectMapping: 0.018773 ms MarkObjects: 0.310186 ms  DeleteObjects: 0.072960 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.645973 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 1.651201 ms (FindLiveObjects: 0.106666 ms CreateObjectMapping: 0.069973 ms MarkObjects: 0.728747 ms  DeleteObjects: 0.743680 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.558507 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.433920 ms (FindLiveObjects: 0.071253 ms CreateObjectMapping: 0.022613 ms MarkObjects: 0.290560 ms  DeleteObjects: 0.048640 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 49fc -> priority: 1 
